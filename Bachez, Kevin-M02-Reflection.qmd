@@ -1,0 +1,106 @@
+---
+title: "M02-Introduction to Data Science in R-Reflection"
+author: "Kevin Bachez"
+date: "June 16, 2025"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    code-tools: true
+    code-overflow: wrap
+editor: visual
+execute:
+  echo: false
+  freeze: auto
+---
+
+::: {.callout-note}
+## Personal Goal
+
+My goal is to become an R user who can use R and Quarto to create professional analytics reports and be efficient in it.
+:::
+
+
+# Reproducibility Crisis
+
+## Prompt
+Summarize the video presentation about the reproducibility crisis (Step 1).
+
+## Response
+The video presentation about the reproducibility crisis talked about when researchers cannot reproduce the same results from a study even when they are using the same data and procedures. This can happen due to researchers manually just copying and pasting the outputs from programs into Excel or Word documents. Because of it being done manual it increases the likelihood of mistakes occuring and making it difficult to remember the exact steps that are being taken years later.
+
+> Reproducible research allows others to verify findings and obtain the same results using the same procedures.
+
+
+# Reproducible Data Science and Literate Coding
+
+## Prompt
+Summarize the new things you learned in this module about reproducible data science and literate coding.
+
+## Response
+Before going into this module about reproducible data science and literate coding, I was not aware of any information on this. However, some things that stood out to me were the literate programming which combines code and written explanations into one document in order for readers to understand both the analysis process and the conclusion. I also learned that reproducible data focuses on making analyses repeatable for multiple years.
+
+
+# Reproducibility in Digital Marketing
+
+## Prompt
+What do you think about the reproducible crisis in your field? How can Quarto help address the concerns you have about reproducibility in your line of work?
+
+## Response
+In my field, digital marketing and analytics, I believe that many professionals work with data from many different sources such as Google Analytics, social media platforms, etc. Because data at times may be transferred manually between systems, many mistakes can occur easily. Due to these errors, it can affect reports and ultimately business decisions. Using Quarto, it helps solve these problems by documenting every step that is being done in the analysis process. Instead os the user manually copying results into the report, they can create reports directly from the data source so the number of errors that may come up will be minimal to none. It ensures accuracy and consistency.
+
+
+# Quarto Capabilities and Publishing
+
+## Prompt
+Summarize the instructor's lectures about Quarto and discuss whether you see yourself using Quarto in your studies or career.
+
+## Response
+After watching the instructors' lectures about Quarto, it just showed me how powerful and useful Quarto is as a publishing platform. I learned that not only can Quarto create HTML reports, but it can also create PDF documents, Word documents, presentations, websites, blogs, etc. I was really impressed about the number of things that Quarto can create and also the ability to publish report online through GitHub Pages. I honestly do see myself using Quarto everyday not only in my job but also throughout my master's program. Instead of using different websites I can use quarto for class notes, research papers, and create presentations.
+
+# Tidyverse Ecosystem
+
+## Prompt
+Summarize what you learned in this module about the Tidyverse ecosystem in R. What can you do with R?
+
+## Response
+What I learned in this module about the Tidyverse ecosystem in R is that tidyverse is a collection of packages that simplify data science tasks. Using tidyverse makes is easier to learn and makes code more readable. Some packages that are included are dplyr which is used for data manipulation, ggplot2 for visualization and so many more packages. What I can do with R is import, clean, visualize, and analyze data. I can also create reports, dashboards, and websites.
+
+
+# Top R Packages Beyond Tidyverse
+
+## Prompt
+Choose two packages beyond the Tidyverse ecosystem, Base R, and Quarto that could enhance your career. Tell me why.
+
+## Response
+Based on the video that introduced the top 20 packages, the two packages that could enhance my job/career would probably be “Shiny” and “Plotly”. Shiny allows users to create a interactive web application directly from R. This would enhance my career because it would allow me to build interactive dashboards for a marketing campaign or business performance reporting. As for Plotly it is a package for creating a interactive visualizations. This would be useful in my career because creating interactive charts would help stakeholders to explore the data in a more effective way than a normal chart would make it easier to understand.
+
+
+# R vs Python
+
+## Prompt
+What is your take on the debate between R and Python? Consider how Quarto enables collaboration between users of both languages.
+
+## Response
+My debate on R vs. Python is that data professionals should earn at least the basics for both of them rather than choosing just one. They both have their features that may be useful over time. R is very strong in statistics and visualization while Python is commonly used for machine learning and software development. With Quarto it allows multiple programming langues to be used within the same projects so team members can use either R or Python when doing a report. This allows collaborations to use the same program, and they don't have to fore everyone to use a single language.
+
+
+# Summary
+
+## Key Takeaways
+
+| Topic | What I Learned |
+|--------|----------------|
+| Quarto | Creates reports and websites |
+| Tidyverse | Simplifies data analysis |
+| R Packages | Extend R capabilities |
+| R vs Python | Both have strengths |
+
+
+# Conclusion
+
+This module helped me better understand reproducible research, Quarto, the Tidyverse ecosystem, and the relationship between R and Python. I learned how Quarto can improve transparency and collaboration while creating professional reports and websites. I also learned how R can be extended through packages that support data visualization, dashboards, machine learning, and forecasting. These skills will be valuable throughout my master's program and future career in digital marketing and analytics.
